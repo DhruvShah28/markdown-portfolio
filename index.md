@@ -1,3 +1,3 @@
 # Dhruv Shah
 
-[Home](/)
+[Home](index)
