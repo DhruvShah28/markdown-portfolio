@@ -7,4 +7,4 @@
 
 ---
 
-![Dhruv Shah's Photo](./Profile.jpg)
+![Dhruv Shah's Photo](./Profile2.jpg)
