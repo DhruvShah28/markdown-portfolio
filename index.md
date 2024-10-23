@@ -39,7 +39,7 @@ export default Dhruv;
 
 ### 🎓 Degrees:
 
-- Bachelor's in Computer Application :computer:
+- Bachelor's in Computer Application
 - Graduate Certificate in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
 - Graduate Certificate in Web Development
 
