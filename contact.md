@@ -1,5 +1,5 @@
 # Contact Me
 
 [Home](index) 
-[Contact](./contact.md) 
-[projects](./project.md) 
+[Contact](contact) 
+[projects](project) 
