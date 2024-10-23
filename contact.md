@@ -2,4 +2,4 @@
 
 [Home](index) 
 [Contact](contact) 
-[projects](project) 
+[Projects](project) 
