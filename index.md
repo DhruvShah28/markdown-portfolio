@@ -6,6 +6,7 @@
 
 
 ---
+### About Me :smile:
 
 <img src="./IMG_5371.JPG" width="150px">
 
@@ -13,3 +14,33 @@ Hi, I'm Dhruv Shah, a passionate Web Development student at Humber College with 
 
 My goal is to master full-stack development and build innovative, scalable, responsive and accessible web applications that deliver exceptional user experiences. I'm always eager to learn and grow, and currently, I'm diving deeper into modern web technologies like React and Node.js.
 
+
+```js
+/// Bio
+
+const Dhruv = {
+    name: "Dhruv Shah",
+    current_role: "Web Development Student at Humber College",
+    languages: ["HTML", "CSS", "JavaScript"],
+
+    currentlyLearning: "Exploring the world of full-stack development",
+    futureGoals: "Master React.js and Node.js",
+
+    hobbies: ["Learning new tech", "Turning coffee into code", "Debugging... forever"],
+    funFact: "I can center a div... on a good day!"
+}
+alert("Let's build something amazing together! :rocket:");
+
+/// Keep coding, keep growing! 🚀
+export default Dhruv;
+```
+
+---
+
+### :mortar_board: Degrees: Proof I Survived School
+
+- Bachelor's in Computer Application :computer:
+- Graduate Certificate in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
+- Graduate Certificate in Web D<img src="loading-gif-2.gif" height="10px">
+
+---
