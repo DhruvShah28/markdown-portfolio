@@ -7,7 +7,7 @@
 
 ---
 
-<img src="./IMG_5371.JPG">
+<img src="./IMG_5371.JPG" width="150px">
 
 Hi, I'm Dhruv Shah, a passionate Web Development student at Humber College with a strong desire to become a professional Web Developer. I also hold a Bachelor's degree in Computer Application and a Graduate Certificate in Business Analytics, which has equipped me with a well-rounded skill set, blending technical expertise and analytical thinking.
 
